@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0048/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0048/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上元始天尊說續命妙經
+  date: '2015-08-28 23:35:21.357992'
+  source:
+    repository: kanripo
+    path: KR5a0048
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0048_000-ZTDZ.yaml, hash: 'sha256:039d4a53d8a9f9e31507f2407a344e26e8a3c86b5d04e1a3796e45fa4cd22d54'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0048_000-ZTDZ.markers.yaml, hash: 'sha256:2b08c86dbc4a63efcd45e4aa829c854176772efdcbc0a30513a45fa3f1b96cb3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0048_SJB_000-010874b
+    span:
+    - body
+    - 0
+    - 249
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a5b0eb2fb4ed81f70c7ba2b5bd13ec5edba9a064840e82a626827aea84a99760

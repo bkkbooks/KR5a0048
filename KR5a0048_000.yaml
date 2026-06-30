@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0048/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太上元始天尊說續命妙經爾時元始天尊告太上道君曰三界衆生漂流苦海無有解脫汝豈忍受宜須精勤奉行我法普該救度太上道君既奉告命不敢藏情若有衆生危厄疾病當誦此經稱大慈大悲大惠真人大慈大悲救苦真人即得離苦長得解脫永離嬰纏長生益壽老命更延一切厄難皆得消滅太上道君宣說頌曰大慈二真人能救三界苦放光照世間地獄悉停住刀山髙巍巍鑊湯飛炎炎至心念真人罪魂解宿𡨚疾病多苦厄非災難可言痛哉傷五神真人愍悲辛清信善男女歸命須至心常念二真人離苦免憂沈疾病消衆厄邪魔不敢侵畫夜心不離解脫全爾身勇猛發回向同歸七寶林太上元始天尊說續命妙經
+  hash: sha256:d9b0bfb65bf472f8dd2b8700e02c80775f62e9cdda81ca94bb7633539f7c7a45
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0048_HFL_000-001a, image: hfl/0029/0029-090.png}
+metadata:
+  title: 太上元始天尊說續命妙經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:35:21.357992'
+  source:
+    repository: kanripo
+    path: KR5a0048/KR5a0048_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:42492a246edd902775a0dc66cc03d4b748a8726b49e375cfd7beadcf3ba72bf9
